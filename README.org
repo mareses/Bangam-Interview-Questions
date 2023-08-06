@@ -1,0 +1,57 @@
+#+title: README
+
+Welcome random Internet user. This repository is a collection of *HIGHLY
+OPINIOATED* programming interview questions from the pitch-dark bottom. Before
+starting to hire ninjas to fill our shoes with mud, take a look at the below
+sections to understand our motive. Rest assured, unless otherwise mentioned,
+everything did here is for *PURE FUN*.
+
+* Introduction
+You might know programming and might have even done nice looking projects
+earning you fame and glory. But when you go for an interview, instead of asking
+questions from 99% of situations you will face, the interviewer might want to
+pull your leg to test you using the remanining 1%.
+
+When you look at that question, you might be like — /What?! I won't ever write
+such code and if I did, I will document it for sure…/. An example is (ab)use of
+[[https://en.wikipedia.org/wiki/Order_of_operations#Mnemonics][BODMAS]]. So what does ~1+2**3-4/5*6~ evaluate to? Though in real life, you would
+use parentheses ~()~ to make it easy for the fellow reader, such questions are
+possible in interview.
+
+Well, at least during interview, you can explain what you understood and
+convince the interviewer that /you do know it/ but /not that much/. But the
+twist here is that, most of these questions come during /pen-paper/ rounds like
+pre-interview filtration tests. There you won't have anybody to explain your
+situation.
+
+So our concern is to not prove if such questions are wrong or to bring a change
+in the society, but to make you aware of similar questions that might be useful
+to you.
+
+Luckily, such questions are common only for /campus placements/ means placement
+from your college where due to the higher magnitude of students, the companies
+conduct a series of filtering rounds before meeting you in person.
+
+* Conclusion
+We made this repository because we felt that such a compiled list would be
+really helpful. If you liked it, leave us a 🌟. If you know similar questions,
+file an issue or make a pull request. At last, don't forget to spread the word!
+
+Some of questions might seem obvious to you and you might get a feel that such
+questions are fundamentals. That's when we want you remember — the questions are
+highly opinionated.
+
+* Advanced Atrocities
+Not feeling like the dosage is enough? Give the following a try. If you are a
+beginner, please don't be alarmed as they are not asked in typical fresher
+interviews.
+
+1. [[https://github.com/satwikkansal/wtfpython][WTFPython]]
+2. [[https://en.cppreference.com/w/c/language/behavior][C Undefined Behavior]]
+
+* The Name
+TODO
+
+* Sections
+1. [[/c.org][C]]
+2. [[/python.org][Python]]

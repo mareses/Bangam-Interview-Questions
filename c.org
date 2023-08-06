@@ -1,0 +1,19 @@
+#+title: C
+
+* Short Circuit
+* Confusing Bitwise for Logical
+* Assigments in Condition
+* Pre and Post Increment and Decrement VS Minus Minus
+* ~printf~ Escaping ~%~
+* ~printf~ and ~scanf~ Return Value
+* BODMAS Headaches
+* Order of Operators
+* ~for~ Loop Syntax
+* Storage Classes
+* Function Name as same as Variable
+* Floating Point VS Double as Default
+* Precision
+* Modifying ~const~ Using Pointer
+* Pointer Arithmetic
+* Arrays and Pointers
+* String Arithmetic
